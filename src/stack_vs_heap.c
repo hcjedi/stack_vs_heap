@@ -1,11 +1,7 @@
 #include <stdlib.h>
-#include <string.h>
-
 #include "stack_vs_heap.h"
 
 #define UNUSED(x) (void)(x)
-
-#include <stdio.h>
 
 static void
 stack_alloc()
